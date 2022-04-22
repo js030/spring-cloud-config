@@ -1,0 +1,4 @@
+ datasource:
+    url: jdbc:h2:tcp://localhost/~/testdb
+    driver-class-name: org.h2.Driver
+    username: '{cipher}eaf93d4cb66a2ea7a07e0eb1a7dc2c901db05114d51a7e2e31c29dbe29c9c924'
