@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
-  secret: user_token_ecommerce_abc
+  expiration_time: 86400000123
+  secret: user_token_ecommerce_abcawefw
 
 gateway:
   ip: 172.30.1.59
